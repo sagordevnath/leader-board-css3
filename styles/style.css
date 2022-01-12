@@ -168,8 +168,7 @@ hr {
 }
 
 .players,
-.blogs,
-    {
+.blogs {
     grid-template-columns: repeat(2, 1fr);
 }
 
